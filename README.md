@@ -5,6 +5,8 @@ Joshua Alvarez: JoshuaAlvarez1
 
 Zachary Chandler: ZacharyChandler033
 
+Aryan Bhuta: LycaonofArcadia
+
 # Roles
 
 
@@ -13,4 +15,7 @@ Zach Allen: https://codermerlin.com/users/zachary-allen/Digital%20Portfolio/inde
 
 Joshua Alvarez: https://www.codermerlin.com/users/joshua-alvarez/Digital%20Portfolio/index.html
 
-Zachary Chadler: https://www.codermerlin.com/users/zachary-chandler/Digital%20Portfolio/index.html
+Zachary Chandler: https://www.codermerlin.com/users/zachary-chandler/Digital%20Portfolio/index.html
+
+Aryan Bhuta: https://www.codermerlin.com/users/aryan-bhuta/Digital%20Portfolio/index.html
+
