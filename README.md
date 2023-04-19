@@ -1,21 +1,6 @@
-# Names
-Zach Allen: zachary-allen823
+# ScenesShellBasic
 
-Joshua Alvarez: JoshuaAlvarez1
-
-Zachary Chandler: ZacharyChandler033
-
-Aryan Bhuta: LycaonofArcadia
-
-# Roles
-
-
-# Portfolios
-Zach Allen: https://codermerlin.com/users/zachary-allen/Digital%20Portfolio/index.html
-
-Joshua Alvarez: https://www.codermerlin.com/users/joshua-alvarez/Digital%20Portfolio/index.html
-
-Zachary Chandler: https://www.codermerlin.com/users/zachary-chandler/Digital%20Portfolio/index.html
-
-Aryan Bhuta: https://www.codermerlin.com/users/aryan-bhuta/Digital%20Portfolio/index.html
+A basic shell to serve as a starting point for using Scenes.
+It includes a MainScene, three Layers, and one Background object
+but is otherwise empty.
 
